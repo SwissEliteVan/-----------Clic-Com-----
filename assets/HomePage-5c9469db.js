@@ -1,0 +1,1 @@
+import{j as e}from"./index-a31d1114.js";function i(){return e.jsxDEV("div",{children:"HomePage"},void 0,!1,{fileName:"/home/ubuntu/clicom-spa-original/src/pages/HomePage.jsx",lineNumber:4,columnNumber:10},this)}export{i as default};
